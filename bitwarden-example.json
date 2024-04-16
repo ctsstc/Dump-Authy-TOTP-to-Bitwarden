@@ -1,0 +1,164 @@
+{
+  "folders": [],
+  "items": [
+    {
+      "collectionIds": [null],
+      "creationDate": "YYYY-MM-00T00:00:00.000Z",
+      "deletedDate": null,
+      "favorite": false,
+      "fields": [
+        {
+          "name": "Text Field",
+          "type": 0,
+          "value": "text-field-value"
+        },
+        {
+          "name": "Hidden Field",
+          "type": 1,
+          "value": "hidden-field-value"
+        },
+        {
+          "name": "Boolean Field",
+          "type": 2,
+          "value": "false"
+        }
+      ],
+      "folderId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa",
+      "name": "My Secure Note",
+      "notes": "1st line of secure note\n2nd line of secure note\n3rd line of secure note",
+      "organizationId": null,
+      "passwordHistory": [
+        {
+          "lastUsedDate": "YYYY-MM-00T00:00:00.000Z",
+          "password": "passwordValue"
+        }
+      ],
+      "revisionDate": "YYYY-MM-00T00:00:00.000Z",
+      "secureNote": {
+        "type": 0
+      },
+      "type": 2
+    },
+    {
+      "card": {
+        "brand": "Visa",
+        "cardholderName": "Jane Doe",
+        "code": "123",
+        "expMonth": "10",
+        "expYear": "2021",
+        "number": "1234567891011121"
+      },
+      "collectionIds": [null],
+      "favorite": false,
+      "fields": [
+        {
+          "name": "Text Field",
+          "type": 0,
+          "value": "text-field-value"
+        },
+        {
+          "name": "Hidden Field",
+          "type": 1,
+          "value": "hidden-field-value"
+        },
+        {
+          "name": "Boolean Field",
+          "type": 2,
+          "value": "false"
+        }
+      ],
+      "folderId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+      "name": "Card Name",
+      "notes": "1st line of note text\n2nd line of note text",
+      "organizationId": null,
+      "type": 3
+    },
+    {
+      "collectionIds": [null],
+      "favorite": false,
+      "fields": [
+        {
+          "name": "Text Field",
+          "type": 0,
+          "value": "text-field-value"
+        },
+        {
+          "name": "Hidden Field",
+          "type": 1,
+          "value": "hidden-field-value"
+        },
+        {
+          "name": "Boolean Field",
+          "type": 2,
+          "value": "true"
+        }
+      ],
+      "folderId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+      "identity": {
+        "address1": " 1 North Calle Cesar Chavez ",
+        "address2": null,
+        "address3": null,
+        "city": "Santa Barbara",
+        "company": "My Employer",
+        "country": "United States ",
+        "email": "myemail@gmail.com",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "licenseNumber": "123456789",
+        "middleName": "A",
+        "passportNumber": "123456789",
+        "phone": "123-123-1234",
+        "postalCode": "93103",
+        "ssn": "123-12-1234",
+        "state": "CA",
+        "title": "Mrs",
+        "username": "myusername"
+      },
+      "name": "My Identity",
+      "notes": "1st line of a note\n2nd line of a note",
+      "organizationId": null,
+      "type": 4
+    },
+    {
+      "collectionIds": [null],
+      "favorite": false,
+      "fields": [
+        {
+          "name": "Text Field",
+          "type": 0,
+          "value": "text-field-valie"
+        },
+        {
+          "name": "Hidden Field",
+          "type": 1,
+          "value": "hidden-field-value"
+        },
+        {
+          "name": "Boolean Field",
+          "type": 2,
+          "value": "true"
+        }
+      ],
+      "folderId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "id": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+      "login": {
+        "password": "mypassword",
+        "totp": "otpauth://totp/my-secret-key",
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://mail.google.com"
+          }
+        ],
+        "username": "myusername@gmail.com"
+      },
+      "name": "Login Name",
+      "notes": "1st line of note text\n2nd Line of note text",
+      "organizationId": null,
+      "type": 1
+    }
+  ]
+}
