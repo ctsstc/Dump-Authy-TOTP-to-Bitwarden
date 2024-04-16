@@ -1,0 +1,5 @@
+node_modules
+
+# Secrets & Such
+bitwarden.json
+codes.txt
